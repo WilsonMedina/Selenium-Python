@@ -16,7 +16,7 @@ Clone the repo
     https://github.com/WilsonMedina/Selenium-Python.git
  ```` 
 
-➡ Now you add the requirements.txt file, only copy the path of the requirements.txt file in this project include it in the path, example:
+➡ Now you execute the requirements.txt file, only copy the path of the requirements.txt file in this project include it in the path, example:
 
 If you are working con Git Bash (remember this command changes depending on the terminal you are using)
 ![image](https://github.com/WilsonMedina/Selenium-Python/assets/66540253/a776347a-b9ff-49f1-9abc-9d6337b23e07)
