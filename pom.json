@@ -1,0 +1,33 @@
+{
+
+    "username_input" : {
+        "select_by" : "ID",
+        "its_value" : "user-name",
+        "multiple_select" : "false"
+    },
+    "password_input" : {
+        "select_by" : "id",
+        "its_value" : "password",
+        "multiple_select" : "false"
+    },
+    "login_button" : {
+        "select_by" : "id",
+        "its_value" : "login-button",
+        "multiple_select" : "false"
+    },
+    "add_and_remove_cart_button" : {
+        "select_by" : "xpath",
+        "its_value" : "//div[@class='pricebar']/button",
+        "multiple_select" : "true"
+    },
+    "icon_shopping_cart" : {
+        "select_by" : "class",
+        "its_value" : "shopping_cart_link",
+        "multiple_select" : "false"
+    },
+    "app_logo_text" : {
+        "select_by" : "class",
+        "its_value" : "app_logo",
+        "multiple_select" : "false"
+    }
+}
