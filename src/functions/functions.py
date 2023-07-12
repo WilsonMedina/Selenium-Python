@@ -37,7 +37,7 @@ class Functions:
 
     def get_selector_pom(self, json_file, key):
 
-        json_path = ("Here you must write the path of you project" + json_file + ".json")
+        json_path = ("C:\\Users\\wilso\\Desktop\\Python\\selenium\\selenium_test\\" + json_file + ".json")
         
         try:
 
